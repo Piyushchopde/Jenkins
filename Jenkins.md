@@ -49,4 +49,10 @@ A Jenkins pipeline is a set of instructions that define the steps involved in bu
     declarative pipeline :
 11) How to install custome jenkins plugins
      - hpi extension sholud be there in file 
-     - manage jenkins - manage pulgins - advance setting - deply plugins select file and deploy it 
+     - manage jenkins - manage pulgins - advance setting - deply plugins select file and deploy it
+       
+12) Jenkins’ “Workspace” directory?
+   - directory where Jenkins stores the working copy of the source code for a project 
+13) what is diff between git merge and rebase ?
+   - merage combine changes from one branch to another branch
+   - rebase moving chnages from one branch to another branch 
