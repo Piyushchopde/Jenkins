@@ -33,4 +33,10 @@ A Jenkins pipeline is a set of instructions that define the steps involved in bu
       - Use a firewall.
       - Update the Jenkins software timely.
       - Use a security plugin.
-8) 
+8) Defaut ENV Variable in Jenkins ?
+      - $JOB_NAME
+      - $NODE_NAME
+      - $WORKSPACE
+      - $BUILD_URL
+      - $JENKINS_URL
+      - $BUILD_ID
