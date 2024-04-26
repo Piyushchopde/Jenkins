@@ -40,3 +40,13 @@ A Jenkins pipeline is a set of instructions that define the steps involved in bu
       - $BUILD_URL
       - $JENKINS_URL
       - $BUILD_ID
+9) What is multibranch pipeline ?
+    - Every branch should be having their own pipeline that time we use multibranch pipeline
+    - jenkinsfile should be there in each branch
+
+10) Type of Pipeline ?
+    scripted and declrative pipeline
+    declarative pipeline :
+11) How to install custome jenkins plugins
+     - hpi extension sholud be there in file 
+     - manage jenkins - manage pulgins - advance setting - deply plugins select file and deploy it 
