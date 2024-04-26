@@ -2,7 +2,7 @@ Referance : https://medium.com/@harshBlogs/jenkins-interview-questions-99e2c7f1c
             https://medium.com/aws-in-plain-english/ace-your-jenkins-interview-ii-55750d98ffb0
             https://muditm12.hashnode.dev/day-23-jenkins-freestyle-project-for-devops-engineers
 
-- CI : Developer merge change sevarl times in a day called as continus integration 
+- CI : Developer merge change sevarl times in a central repository  called as continous integration 
 - Continous deployment : Software is deployed to a production env automatically when ever chnages is made in codebase 
 - Continous delivary : Software is build tested and packed so that it can be deployed to the production env 
 
